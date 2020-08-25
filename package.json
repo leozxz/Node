@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  },
+  "name": "(Node)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leozxz/Node.git",
+  "author": "leozxz <52091203+leozxz@users.noreply.github.com>",
+  "license": "MIT"
+}
